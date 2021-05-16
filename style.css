@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: #0cffc7;
+    font-family: Tahoma; 
+    line-height: 1.5;
+    font-size: 20px;
+}
+.title {
+    font-size: 55px;
+    color: #FF8C00;
+}
